@@ -46,7 +46,7 @@ Lead Developer & Owner: Noa
 
 Want to follow development, share feedback, suggest ideas, or simply hang out? You're welcome to join the community.
 
-Discord: <link href="https://discord.gg/S8pphCm33b#">Join the Nyxfall Studios Discord</link>
+Discord: [Join the Nyxfall Studios Discord](https://discord.gg/S8pphCm33b)
 
 <p align="center">
   <em>"From the darkness, new worlds emerge."</em>
